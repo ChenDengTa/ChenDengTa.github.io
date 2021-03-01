@@ -1,3 +1,6 @@
+[Statistics for XJTUCC](https://github.com/ChenDengTa/ChenDengTa.github.io)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ChenDengTa/Stat-xjtuCC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
